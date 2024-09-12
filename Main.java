@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class Main {
+    
     public static void main(String[] args) {
         short[] n = new short[9];
         int k = 6;
